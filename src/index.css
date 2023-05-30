@@ -1,13 +1,41 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  background-color: hsl(180, 100%, 94%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1{
+  text-align: center;
+  background-color: aquamarine;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.wheather{
+  background-color: rgb(162, 162, 244);
+  text-align: center;
+  padding: 20px;
+  font-size: 30 px;
+}
+
+label {
+  width: 130px;
+}
+button{
+height: 30px;
+width: 250px;
+margin-top: 3px;
+}
+input{
+  height: 25px;
+
+}
+.inputField{
+  margin-left: 550px;
+  margin-top: 100px;
+}
+p{
+  margin-left: 600px;
+}
+h2{
+  margin-left: 600px;
+
 }
